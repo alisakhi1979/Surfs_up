@@ -16,12 +16,13 @@ Software: SQLlite, Python 3.9.2, Jupyter Notebook
 
 Summary Statistics DataFrame: June vs December Temperatures
 ![](images/june_sum.png)
+![](images/dec_sum.png)
 
 June Temps Visualization (Temperature and Frequency)
-
+![](images/june.png)
 
 December Temps Visualization (Temperature and Frequency)
-
+![](images/december.png)
 
 Key Differences in Weather: Hawaii
 
