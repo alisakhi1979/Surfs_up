@@ -15,7 +15,7 @@ Software: SQLlite, Python 3.9.2, Jupyter Notebook
 ## Results:
 
 Summary Statistics DataFrame: June vs December Temperatures
-![](images/sum_jun)
+![](images/june_sum.png)
 
 June Temps Visualization (Temperature and Frequency)
 
